@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm a passionate B.Tech student <br>Exploring the world of data science.<br>I love building solutions that solve real-world problems.<br>Let's connect and collaborate!<br><br>
+Hi there! I'm a passionate B.Tech student. <br>Exploring the world of data science.<br>I love building solutions that solve real-world problems.<br>Let's connect and collaborate!<br><br>
 
 
 ## 🌐 Socials:
